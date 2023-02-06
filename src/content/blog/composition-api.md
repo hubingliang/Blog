@@ -1,8 +1,8 @@
 ---
 author: Brian Hu
 pubDatetime: 2018-07-20T09:45:16.000Z
-title: 上手 Vue 3 + TS 应该用 Oprions API 还是 Composition API?
-postSlug: 上手 Vue 3 + TS 应该用 Oprions API 还是 Composition API?
+title: 上手 Vue 3 + TS 应该用 Oprions API 还是 Composition API？
+postSlug: 上手 Vue 3 + TS 应该用 Oprions API 还是 Composition API？
 featured: false
 draft: false
 tags:
