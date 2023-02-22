@@ -3,7 +3,7 @@ author: Brian Hu
 pubDatetime: 2022-09-6T14:23:11.000Z
 title: Monorepo 能给前端工程带来什么
 postSlug: Monorepo 能给前端工程带来什么
-featured: true
+featured: false
 draft: false
 tags:
   - Monorepo

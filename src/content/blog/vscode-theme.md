@@ -3,7 +3,7 @@ author: Brian Hu
 pubDatetime: 2019-04-18T09:21:54.000Z
 title: 如何打造一款自己的 VSCode 主题？
 postSlug: 如何打造一款自己的 VSCode 主题？
-featured: true
+featured: false
 draft: false
 tags:
   - Library

@@ -3,7 +3,7 @@ author: Brian Hu
 pubDatetime: 2018-04-09T09:41:02.000Z
 title: 学会了 ES6，就不会写出那样的代码
 postSlug: 学会了 ES6，就不会写出那样的代码
-featured: true
+featured: false
 draft: false
 tags:
   - JavaScript

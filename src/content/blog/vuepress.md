@@ -3,7 +3,7 @@ author: Brian Hu
 pubDatetime: 2018-04-23T09:17:23.000Z
 title: Hexo 已经看腻了，来试试 VuePress 搭建个人博客
 postSlug: Hexo 已经看腻了，来试试 VuePress 搭建个人博客
-featured: true
+featured: false
 draft: false
 tags:
   - VuePress

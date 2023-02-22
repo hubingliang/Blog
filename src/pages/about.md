@@ -1,36 +1,27 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About Flâneur"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+一位前端开发者也是以太坊 Dapp 的构建者。除了前端知识的分享也专注于加密货币和区块链技术。涵盖了以太坊、IPFS、Solidity 区块链安全和其他 web3 相关技术的经验。
+
+<!-- AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
 
 This theme is aimed to be accessible out of the box. Light and dark mode are supported by
 default and additional color schemes can also be configured.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info. -->
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+## Skill
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+- Solidity
+- Hardhat
+- TypeScript
+- React Vue
 
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+<!-- If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).
+Or you can even give any feedback via my [email](mailto:contact@satnaing.dev). -->

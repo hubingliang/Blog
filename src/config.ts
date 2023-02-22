@@ -2,9 +2,9 @@ import type { SocialObjects } from "./types";
 
 export const SITE = {
   website: "https://brianhu-blog.netlify.app/",
-  author: "Brian Hu",
-  desc: "A minimal, responsive and SEO-friendly blog.",
-  title: "Blog",
+  author: "Flâneur",
+  desc: "Flâneur's blog.",
+  title: "Flâneur",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 4,
