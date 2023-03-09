@@ -165,5 +165,5 @@ contract Bank {
 ## 参考文章
 
 1. [https://consensys.github.io/smart-contract-best-practices/attacks/reentrancy/](https://consensys.github.io/smart-contract-best-practices/attacks/reentrancy/)
-2. [https://www.alchemy.com/overviews/reentrancy-attack-solidity](https://www.alchemy.com/overviews/reentrancy-attack-solidity)
+2. [https://www.alchemy.com](https://www.alchemy.com/overviews/reentrancy-attack-solidity)
 3. [https://dev.to/peterblockman/smart-contract-security-an-illustrated-guide-to-re-entrancy-attack-2f3p](https://dev.to/peterblockman/smart-contract-security-an-illustrated-guide-to-re-entrancy-attack-2f3p)
