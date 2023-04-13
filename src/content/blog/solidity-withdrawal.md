@@ -3,7 +3,7 @@ author: Brian Hu
 pubDatetime: 2023-03-14T08:56:20.000Z
 title: Solidity 提款模式（withdrawal） 是什么？
 postSlug: solidity-withdrawal
-featured: true
+featured: false
 draft: false
 tags:
   - Solidity
